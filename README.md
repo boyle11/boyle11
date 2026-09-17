@@ -19,7 +19,7 @@ Projects:
 
   -[Disease Spread Simulation](https://github.com/boyle11/DiseaseSpreadSimulation)
   
-  -Battleship Game
+  -[Battleship Game](https://github.com/boyle11/BattleshipGame)
   
   -RPG Unity Game
   
