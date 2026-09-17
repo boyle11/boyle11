@@ -3,10 +3,15 @@ Gavin Boyle
 Computer Science Student | Game Programmer | Software Developer
 
 Skills:
+
   -C#
+  
   -C
+  
   -Java
+  
   -Unity
+  
   -Maya
 
 Projects:
