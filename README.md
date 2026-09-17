@@ -14,6 +14,7 @@ Skills:
   
   -Maya
 
+------------------------------------------------------------------------------------------------------
 Projects:
 
   -[Disease Spread Simulation](https://github.com/boyle11/DiseaseSpreadSimulation)
@@ -23,3 +24,5 @@ Projects:
   -RPG Unity Game
   
   -Lox Interpreter (Algorithms course assignment) 
+
+  ------------------------------------------------------------------------------------------------------
